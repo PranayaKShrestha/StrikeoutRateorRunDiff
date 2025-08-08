@@ -4,5 +4,26 @@ Recently, I was listening to the Blair & Barker podcast (Blue Jays podcast), and
 
 # SetUp/Methodology ⚾
 
+Utilized the **pybaseball** package in Python to access MLB team batting and pitching statistics over the last 20 years (excluded the shortened 2020 season to avoid anomalies).
+
+Scraped team-level metrics including:
+
+Batting stats: Team strikeout rate (K%), runs scored (R), and total strikeouts (SO).
+
+Pitching stats: Wins (W), losses (L), runs allowed (RA), and strikeouts by pitchers (SO_P).
+
+Combined these datasets to calculate run differential (Run_Diff) as the difference between runs scored and runs allowed, and strikeout differential (Strikeout_Diff) as the difference between pitcher strikeouts and batter strikeouts.
+
+**Libraries:**
+
+**pybaseball**: For scraping MLB data.
+
+**pandas & numpy**: For data manipulation.
+
+**matplotlib & seaborn**: For visualizations.
+
+**scikit-learn**: For regression analysis.
+
+
 
 
