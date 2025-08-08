@@ -38,7 +38,7 @@ Before getting into strikeout differential, I looked at the team's batting strik
 
 
 <img width="846" height="468" alt="image" src="https://github.com/user-attachments/assets/5dc16c35-2f9b-4353-91c6-72fc24e068a4" />
-<img width="846" height="468" alt="image" src="https://github.com/user-attachments/assets/5bddac5c-e704-4bc5-8198-d887e99c2043" />
+<img width="846" height="468" alt="image" src="https://github.com/user-attachments/assets/f1e25532-f066-4b84-bd8e-31cd8680fb0e" />
 
 Looking at the strikeout differential now, there is a moderately positive correlation with the Win Percentage, with a higher level of correlation post-2020. The analysis supports the modern baseball emphasis on strikeout-heavy pitching, as it correlates with winning. However, the modest R^2 suggests teams should balance this with other metrics like walk rates, defensive skills, or clutch hitting to optimize performance. 
 
